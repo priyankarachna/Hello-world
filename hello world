@@ -1,0 +1,4 @@
+>>>print("hello world")
+>>>print("what is your name?")
+my name=input()
+>>>print("it is good to meet you")
